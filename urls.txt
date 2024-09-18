@@ -1,1 +1,2 @@
 http://backend.course/IrynaTyshchuk
+http://backend.course?name=%22Iryna%20Tyshchuk%22&github_name=IrynaTyshchuk&group=%22FEI%2D24%22&subgroup=%22subgroup%202%22
